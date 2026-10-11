@@ -6,17 +6,17 @@ Author: Precious Joseph Ekere (B.Tech in Cyber Security Science)
 Institution: Federal University of Technology, Minna (Department of Cyber Security Science)
 Advisor: Prof. Victor Waziri
 
-1. Abstract & Research Context
+#1. Abstract & Research Context
 
 The rapid expansion of digital commerce in emerging markets is severely limited by a foundational lack of trust, transaction fraud, and non-performance issues. While mobile banking apps and fintech channels have achieved massive adoption, they lack integrated transaction-security frameworks tailored to secure exchanges between untrusted peers. This thesis explores the design and architecture of an integrated peer-to-peer (P2P) escrow system built directly onto commercial banking frameworks to act as a trusted, neutral party that holds transaction funds until predefined contract parameters are validated.
 
-2. Core Research Objectives
+#2. Core Research Objectives
 
 • Systemic Architecture Design: Design an exhaustive functional prototype and integration roadmap for multi-platform banking applications to mitigate e-fraud and enforce transaction security compliance.
 • Barrier Identification: Analyze and map out the critical technological, infrastructural, legal, and regulatory hurdles blocking decentralized trust networks in developing banking ecosystems.
 • Trust Calibration Engineering: Formulate structural mitigation strategies to accelerate consumer acceptance and lower transaction dispute barriers.
 
-3. Proposed System Architecture & Functional Blueprints
+#3. Proposed System Architecture & Functional Blueprints
 
 The engineered prototype was organized around a strict series of secure, role-based workflows deployed on an infinite collaborative canvas (Miro) to handle complex multi-tier system interactions:
 • Role-Based Cryptographic Access: Enforces distinct functional parameters and access control boundaries for Buyers, Sellers, and neutral Escrow Agents.
@@ -24,6 +24,6 @@ The engineered prototype was organized around a strict series of secure, role-ba
 • Autonomous Triage & Dispute Resolution: Implements multi-party negotiation portals with secure channels for Escrow Agent intervention, evidence uploading, and final asset routing.
 • Security & Compliance Infrastructure: Integrates end-to-end data encryption mechanics, immutable system audit logs for comprehensive action tracking, and strict adherence to regulatory standards like GDPR and PCI-DSS.
 
-4. Empirical Significance & Graduate Research Continuity
+#4. Empirical Significance & Graduate Research Continuity
 
 This study demonstrates that integrating lightweight P2P escrow microservices into traditional banking infrastructure significantly lowers transaction dispute metrics while safeguarding user privacy.
