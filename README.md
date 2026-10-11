@@ -27,4 +27,3 @@ The engineered prototype was organized around a strict series of secure, role-ba
 4. Empirical Significance & Graduate Research Continuity
 
 This study demonstrates that integrating lightweight P2P escrow microservices into traditional banking infrastructure significantly lowers transaction dispute metrics while safeguarding user privacy.
-Proposed Graduate Extension at UESTC: I intend to expand this exact foundational structural framework by transitioning it away from traditional legacy banking environments into an autonomous, decentralized smart-contract architecture powered by cross-blockchain protocols and AI-driven dispute telemetry parsing.
